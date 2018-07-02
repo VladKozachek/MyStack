@@ -10,8 +10,8 @@ public class SimpleStack <E> {
         this.top = -1;
     }
 
-    public void push(E e) {   //добавляем єлемент
-        stackeArray[++top] =e;
+    public void push(Object o) {   //добавляем єлемент
+        stackeArray[++top] =o;
     }
 
 

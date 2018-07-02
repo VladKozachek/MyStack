@@ -35,6 +35,7 @@ public class Main {
         animalsStack.push(new Animals("Cat",5));
         animalsStack.push(new Animals("Pinguage",2));
 
+        animalsStack.pop();
         animalsStack.get();
 
 
