@@ -24,6 +24,7 @@ public class Main {
         strokaStack.push("Hello1");
         strokaStack.push("Hello2");
         strokaStack.push("Hello3");
+        strokaStack.pop();
         strokaStack.get();
 
         //Пример 3
